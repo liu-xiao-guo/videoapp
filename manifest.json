@@ -1,0 +1,17 @@
+{
+    "name": "videoapp.liu-xiao-guo",
+    "description": "description of videoapp",
+    "architecture": "all",
+    "title": "videoapp",
+    "hooks": {
+        "videoapp": {
+            "apparmor": "videoapp.apparmor",
+            "desktop":  "videoapp.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

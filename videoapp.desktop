@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=videoapp
+Exec=qmlscene $@ Main.qml
+Icon=videoapp.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
